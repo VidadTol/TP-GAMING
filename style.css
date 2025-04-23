@@ -21,8 +21,8 @@ button {
   cursor: pointer;
 }
 button:hover {
-  color: black;
-  background: whitesmoke;
+  color: rgb(95, 4, 170);
+  background: black;
 }
 a {
   text-decoration: none;
@@ -43,7 +43,7 @@ nav ul {
 }
 nav li {
   text-transform: uppercase;
-  font-weight: 900;
+  font-weight: 700;
   font-size: 0.9rem;
   cursor: pointer;
   position: relative;
@@ -79,7 +79,7 @@ nav li:last-child:before {
 }
 .main-header {
   background: url(./assets/img/bg.jpg) fixed center/cover;
-  color: white;
+  color: rgb(255, 255, 255);
   padding: 60px;
 }
 h1 {
@@ -159,7 +159,7 @@ h1 {
   padding: 10px 20px;
 }
 .right-part button:hover {
-  color: whitesmoke;
+  color: rgb(134, 10, 235);
   background: rgba(0, 0, 0, 0.9);
 }
 .main-news-container {
@@ -201,7 +201,7 @@ h1 {
   font-weight: 900;
 }
 .main-news a:hover {
-  color: rgb(180, 180, 1);
+  color: rgb(237, 237, 7);
 }
 .main-news i {
   transform: translateX(5px);
